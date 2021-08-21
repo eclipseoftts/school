@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.layui-table-box, .layui-table-view.layui-table-box {
+	max-height: 312px;
+}
+.layui-layer.layui-layer-iframe {
+    height: 280px;
+}
+
+.layui-input-block {
+	width: 200px!important;
+}
+
+.layui-form {
+	margin: 15px!important;
+}
